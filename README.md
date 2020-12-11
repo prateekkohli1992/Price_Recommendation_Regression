@@ -1,4 +1,4 @@
-# Price_Recommendation_Regression
+# Price Recommendation -- Regression Model
 
 
 Client: The client is a ecommerce company where seller can list their products on line by posting photos and other attributes about product.
